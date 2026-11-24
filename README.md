@@ -1,6 +1,6 @@
 # Compute vs. Memory-Bandwidth Limits on a Commodity CPU
 
-Reproducibility package for an Architecture of Computers student research project by Abderrahmene Gueblaoui and Ali Ait Saadi. The repository contains benchmark source code, unmodified raw CSV measurements, and a script that summarizes the measurements. Student IDs are intentionally kept in the manuscript rather than this public code package.
+Reproducibility package for an Architecture of Computers student research project by Abderrahmene Gueblaoui and Ali Ait Saadi. The repository contains benchmark source code, unmodified raw CSV measurements, a script that summarizes the measurements, and a public manuscript copy. Student IDs are omitted from this public repository and included only in the official Platon submission.
 
 ## Research question
 
@@ -99,4 +99,4 @@ The tests establish measured timings for these programs on this laptop under the
 
 ## Data and code
 
-Raw measurements, benchmark sources, and analysis instructions are intended to be released with this project repository. Insert the final repository URL in the manuscript's Data and Code Availability section after the repository is published.
+The [public manuscript](public-manuscript.pdf) includes the authors' names without student IDs. The official submission copy, including student IDs, is provided through Platon.
