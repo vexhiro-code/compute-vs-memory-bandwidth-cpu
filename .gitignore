@@ -1,0 +1,21 @@
+# Local build products
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.idb
+
+# Working manuscript draft and local PDF render images are not part of the code/data repository.
+/paper/
+/tmp/
+
+# Earlier compiler demonstration files, unrelated to the benchmark package.
+/hello.c
+/vector_add.c
+
+# Python local state
+__pycache__/
+*.py[cod]
+.venv/
+
+# Keep the raw CSV measurements and analysis outputs under version control.
